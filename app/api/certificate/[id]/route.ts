@@ -4,11 +4,11 @@ import { getUserFromToken } from '@/lib/auth';
 
 export async function GET(
     request: NextRequest,
-    { params }: { params: { id: string } }
+    { params }: { params: Promise<{ id: string }> }
 ) {
     try {
         const token = request.headers.get('authorization');
-        const user = getUserFromToken(token);
+        const user = getUserFromToken(token ?? undefined);
 
         if (!user) {
             return NextResponse.json(
@@ -17,7 +17,7 @@ export async function GET(
             );
         }
 
-        const certificateId = params.id;
+        const { id: certificateId } = await params;
 
         const testResult = await prisma.testResult.findUnique({
             where: { certificateId },
