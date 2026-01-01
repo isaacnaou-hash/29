@@ -19,7 +19,7 @@ function calculateProficiencyLevel(percentage: number): string {
 export async function POST(request: NextRequest) {
     try {
         const token = request.headers.get('authorization');
-        const user = getUserFromToken(token);
+        const user = getUserFromToken(token ?? undefined);
 
         if (!user) {
             return NextResponse.json(
