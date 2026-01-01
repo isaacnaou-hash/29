@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useState, Suspense } from 'react';
 import { useSearchParams, useRouter } from 'next/navigation';
 import { downloadCertificate } from '@/lib/certificate';
 
@@ -13,7 +13,7 @@ interface CertificateData {
     completedAt: Date;
 }
 
-export default function CertificatePage() {
+function CertificateContent() {
     const searchParams = useSearchParams();
     const router = useRouter();
     const certificateId = searchParams.get('id');
@@ -163,5 +163,17 @@ export default function CertificatePage() {
                 </div>
             </div>
         </div>
+    );
+}
+
+export default function CertificatePage() {
+    return (
+        <Suspense fallback={
+            <div className="min-h-screen bg-gray-50 flex items-center justify-center">
+                <div className="spinner"></div>
+            </div>
+        }>
+            <CertificateContent />
+        </Suspense>
     );
 }
