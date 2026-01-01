@@ -1,0 +1,247 @@
+[
+    {
+        "id": 1,
+        "type": "reading",
+        "passage": "The evolution of technology has fundamentally transformed how we communicate, work, and live. The internet, which began as a military project, has become the backbone of modern society. Today, billions of people around the world rely on digital connectivity for everything from education and healthcare to entertainment and commerce. However, this rapid digitalization has also raised important questions about privacy, security, and the digital divide between those with access to technology and those without.",
+        "question": "According to the passage, what was the original purpose of the internet?",
+        "options": [
+            "Educational institutions",
+            "Military project",
+            "Commercial enterprise",
+            "Healthcare system"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 2,
+        "type": "reading",
+        "passage": "The evolution of technology has fundamentally transformed how we communicate, work, and live. The internet, which began as a military project, has become the backbone of modern society. Today, billions of people around the world rely on digital connectivity for everything from education and healthcare to entertainment and commerce. However, this rapid digitalization has also raised important questions about privacy, security, and the digital divide between those with access to technology and those without.",
+        "question": "What concern is mentioned regarding rapid digitalization?",
+        "options": [
+            "High costs of technology",
+            "The digital divide between those with and without access",
+            "Lack of innovation",
+            "Slow internet speeds"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 3,
+        "type": "grammar",
+        "question": "Choose the correct form: 'She ___ to the gym every morning.'",
+        "options": [
+            "go",
+            "goes",
+            "going",
+            "gone"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 4,
+        "type": "grammar",
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+            "He don't like vegetables.",
+            "He doesn't likes vegetables.",
+            "He doesn't like vegetables.",
+            "He not like vegetables."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 5,
+        "type": "vocabulary",
+        "question": "What does 'meticulous' mean?",
+        "options": [
+            "Careless and sloppy",
+            "Very careful and precise",
+            "Quick and hasty",
+            "Confused and uncertain"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 6,
+        "type": "vocabulary",
+        "question": "Choose the word that best completes the sentence: 'The manager's decision was quite ___; it showed excellent judgment.'",
+        "options": [
+            "foolish",
+            "judicious",
+            "reckless",
+            "impulsive"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 7,
+        "type": "grammar",
+        "question": "Identify the correct passive voice: 'The company will announce the results tomorrow.'",
+        "options": [
+            "The results will be announce by the company tomorrow.",
+            "The results will announced by the company tomorrow.",
+            "The results will be announced by the company tomorrow.",
+            "The results are announced by the company tomorrow."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 8,
+        "type": "reading",
+        "passage": "Climate change represents one of the most pressing challenges of our time. Rising global temperatures, melting ice caps, and extreme weather events are just some of the observable effects. Scientists worldwide agree that human activities, particularly the burning of fossil fuels, are the primary drivers of these changes. Addressing this crisis requires coordinated international action, innovative technological solutions, and significant changes in how we produce and consume energy.",
+        "question": "According to the passage, what is the primary cause of climate change?",
+        "options": [
+            "Natural weather patterns",
+            "Solar radiation",
+            "Human activities, particularly burning fossil fuels",
+            "Volcanic eruptions"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 9,
+        "type": "grammar",
+        "question": "Choose the correct pronoun: 'Between you and ___, I think the project will succeed.'",
+        "options": [
+            "I",
+            "me",
+            "myself",
+            "mine"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 10,
+        "type": "vocabulary",
+        "question": "What is the meaning of 'ubiquitous'?",
+        "options": [
+            "Rare and uncommon",
+            "Present everywhere",
+            "Ancient and historical",
+            "Expensive and luxurious"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 11,
+        "type": "grammar",
+        "question": "Which sentence uses the subjunctive mood correctly?",
+        "options": [
+            "I wish I was taller.",
+            "I wish I were taller.",
+            "I wish I am taller.",
+            "I wish I be taller."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 12,
+        "type": "reading",
+        "passage": "Artificial intelligence (AI) is revolutionizing industries from healthcare to finance. Machine learning algorithms can now diagnose diseases, predict market trends, and even create art. While AI offers tremendous potential benefits, it also raises ethical concerns about job displacement, algorithmic bias, and the concentration of power in the hands of tech companies. As AI continues to advance, society must grapple with how to harness its benefits while mitigating its risks.",
+        "question": "What is NOT mentioned as a concern about AI in the passage?",
+        "options": [
+            "Job displacement",
+            "Algorithmic bias",
+            "Environmental impact",
+            "Concentration of power"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 13,
+        "type": "vocabulary",
+        "question": "Select the synonym for 'resilient':",
+        "options": [
+            "Fragile",
+            "Weak",
+            "Adaptable",
+            "Rigid"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 14,
+        "type": "grammar",
+        "question": "Choose the correct form: 'Neither the teacher nor the students ___ ready for the exam.'",
+        "options": [
+            "was",
+            "were",
+            "is",
+            "are"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 15,
+        "type": "vocabulary",
+        "question": "What does 'eloquent' mean?",
+        "options": [
+            "Unable to speak clearly",
+            "Fluent and persuasive in speaking or writing",
+            "Speaking very quietly",
+            "Using complex vocabulary"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 16,
+        "type": "grammar",
+        "question": "Identify the sentence with correct subject-verb agreement:",
+        "options": [
+            "The group of students are studying.",
+            "The group of students is studying.",
+            "The group of students be studying.",
+            "The group of students were studying yesterday morning."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 17,
+        "type": "reading",
+        "passage": "The human brain is an extraordinarily complex organ capable of processing vast amounts of information simultaneously. It contains approximately 86 billion neurons, each forming thousands of connections with other neurons. This intricate network enables everything from basic survival functions to abstract thinking and creativity. Neuroscientists continue to make groundbreaking discoveries about how the brain works, yet much remains mysterious about consciousness, memory formation, and the nature of thought itself.",
+        "question": "Approximately how many neurons does the human brain contain?",
+        "options": [
+            "86 million",
+            "86 billion",
+            "86 thousand",
+            "86 trillion"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 18,
+        "type": "vocabulary",
+        "question": "Choose the antonym for 'scarcity':",
+        "options": [
+            "Shortage",
+            "Abundance",
+            "Deficiency",
+            "Inadequacy"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 19,
+        "type": "grammar",
+        "question": "Which sentence correctly uses a semicolon?",
+        "options": [
+            "I love reading; my favorite genre is science fiction.",
+            "I love reading; because it expands my mind.",
+            "I love; reading books.",
+            "I love reading, my favorite genre is science fiction."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 20,
+        "type": "vocabulary",
+        "question": "What does 'pragmatic' mean?",
+        "options": [
+            "Theoretical and impractical",
+            "Dealing with things sensibly and realistically",
+            "Overly emotional",
+            "Extremely idealistic"
+        ],
+        "correctAnswer": 1
+    }
+]
