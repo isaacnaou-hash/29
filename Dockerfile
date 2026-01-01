@@ -36,8 +36,8 @@ COPY --from=builder /app/node_modules/.prisma ./node_modules/.prisma
 # Expose port
 EXPOSE 3000
 
-ENV PORT 3000
-ENV HOSTNAME "0.0.0.0"
+ENV PORT=3000
+ENV HOSTNAME="0.0.0.0"
 
 # Start application
 CMD ["node", "server.js"]
